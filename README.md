@@ -25,3 +25,5 @@
 - Google Gemini 3.5 flash: working
 
 - Google NoteBookLM: working
+
+- Google chrome Search Overview: working
