@@ -10,6 +10,10 @@
 
 ## Which ai does it work on?
 
+##### only latest versions
+
+### Coder
+
 - Perplexity Sonar 1: working
 
 - OpenAI GPT 5.4 free: not working
@@ -27,3 +31,13 @@
 - Google NoteBookLM: working
 
 - Google chrome Search Overview: working
+
+### Agent
+
+##### experimental, not yet meant for use
+
+- Perplexity Sonar 1: working
+
+- OpenAI GPT 5.4 free: not working
+
+- Deepseek V3: working
