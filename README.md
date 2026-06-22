@@ -10,6 +10,8 @@
 
 ## Which ai does it work on?
 
+##### may be partially outdated, mainly tested on sonar 1 and deepseek
+
 ##### only latest versions
 
 ### Coder
