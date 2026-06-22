@@ -1,0 +1,8 @@
+#ifndef AGENT_CONFIG_H
+#define AGENT_CONFIG_H
+
+#define AGENT_SERVER_PORT 8080
+#define RECV_NET_BUF_SZ 1024
+#define LISTEN_BACKLOG_SZ 20
+
+#endif
