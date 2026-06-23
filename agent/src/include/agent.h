@@ -7,6 +7,7 @@
 
 typedef enum agent_action_e {
 	CREATE_FILE,
+	CREATE_DIR,
 	EDIT_FILE,
 	DELETE_FILE,
 	LIST_DIR,
