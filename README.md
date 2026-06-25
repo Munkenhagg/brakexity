@@ -43,3 +43,5 @@
 - OpenAI GPT 5.4 free: not working
 
 - Deepseek V3: working
+
+- xAI Grok 4.3 fast: possibly working
