@@ -1,6 +1,5 @@
 # Brakexity
 
-![Demo Image](./images/term.png)
 The prompts that enhances your AI experience
 
 ##### coding focused ai prompts for talking agents. originally meant for perplexity
