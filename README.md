@@ -92,8 +92,6 @@ people who want the ai to discipline them.
 
 ### Agent
 
-##### experimental, not yet meant for use
-
 - Perplexity Sonar 1: working
 
 - OpenAI GPT 5.4 free: not working
