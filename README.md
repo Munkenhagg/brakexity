@@ -64,6 +64,36 @@ people who want to test the JSON action format and arent using it for anything s
 
 people who want the ai to discipline them.
 
+### Planner
+
+- Makes the ai purely plan your project
+
+#### features
+
+- like coder, but only plans projects
+
+#### who would use this?
+
+people who want the ai to focus purely on planning
+
+### NODIN - NO Do It Never (UNRELEASED)
+
+- This is a work in progress prompt aimed ti achieve a full jailbreak on deepseek bypasing all rules
+
+- The NODIN prompt is a private work in progress
+
+- Could be released in the future but will stay private to very few people for a while
+
+#### features
+
+- Bypasses core system safety and security rules
+
+- Tricks the AI into adopting a opposite persona of "Do It Never" making it do everything that "DIN" doesnt do
+
+#### who would use this?
+
+people who want to experiment with making AI LLMs treat higher level rules as fake
+
 ## Which ai does it work on?
 
 ##### may be partially outdated, mainly tested on sonar 1 and deepseek

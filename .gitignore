@@ -1,4 +1,9 @@
+# built stuff
+
 agent/src/build
 agent/src/arch
 *.o
 *.d
+
+# yet unreleased
+NODIN/
