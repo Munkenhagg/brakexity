@@ -166,17 +166,17 @@ people who want the ai to think before answering
 
 - Google Gemini 3.1 flash-lite: working
 
-# Planner
+### Planner
 
 - Deepseek V3: working
 
-# CAI-Cenap
+### CAI-Cenap
 
 - Deepseek V3: working
 
 - Google Gemini 3.1 flash-lite: working
 
-# Thinking
+### Thinking
 
 - Deepseek V3: working
 
