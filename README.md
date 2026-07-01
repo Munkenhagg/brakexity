@@ -78,7 +78,7 @@ people who want the ai to focus purely on planning
 
 ### NODIN - NO Do It Never (UNRELEASED)
 
-- This is a work in progress prompt aimed ti achieve a full jailbreak on deepseek bypasing all rules
+- This is a work in progress prompt aimed to achieve a full jailbreak on deepseek bypasing all rules
 
 - The NODIN prompt is a private work in progress
 
@@ -110,7 +110,7 @@ people who want to add any custom behaviour to the ai without modifying the core
 
 ### Thinking
 
-- This is a prompt to mame the AI think before answering
+- This is a prompt to make the AI think before answering
 
 #### features
 
