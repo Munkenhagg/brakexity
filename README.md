@@ -94,6 +94,32 @@ people who want the ai to focus purely on planning
 
 people who want to experiment with making AI LLMs treat higher level rules as fake
 
+### CAI-Cenap
+
+- This prompt adds dynamic module loading to the ai
+
+- Also partially counts as a jailbreak as the bypass version disables system safety and security rules
+
+#### features
+
+- actions like #load, #unload, #search, #add
+
+#### who would use this?
+
+people who want to add any custom behaviour to the ai without modifying the core prompt
+
+### Thinking
+
+- This is a prompt to mame the AI think before answering
+
+#### features
+
+- before answering, the ai thinks in a code block and fact-checks itself
+
+#### who would use this?
+
+people who want the ai to think before answering
+
 ## Which ai does it work on?
 
 ##### may be partially outdated, mainly tested on sonar 1 and deepseek
@@ -139,3 +165,19 @@ people who want to experiment with making AI LLMs treat higher level rules as fa
 - OpenAi GPT 5.4 free: working
 
 - Google Gemini 3.1 flash-lite: working
+
+# Planner
+
+- Deepseek V3: working
+
+# CAI-Cenap
+
+- Deepseek V3: working
+
+- Google Gemini 3.1 flash-lite: working
+
+# Thinking
+
+- Deepseek V3: working
+
+- Perplexity Sonar 1: not working

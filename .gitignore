@@ -5,5 +5,5 @@ agent/src/arch
 *.o
 *.d
 
-# yet unreleased
+# yet to be released
 NODIN/
