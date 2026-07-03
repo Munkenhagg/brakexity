@@ -183,3 +183,13 @@ people who want the ai to think before answering
 - Deepseek V3: working
 
 - Perplexity Sonar 1: not working
+
+### NODIN
+
+- Deepseek V3: working
+
+- Gemini 3.1 flash-lite: possibly working
+
+- Perplexity sonar 1: not working
+
+- OpenAI chatgpt 5.4 free: not working
