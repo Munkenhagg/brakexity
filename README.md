@@ -210,8 +210,8 @@ people who either forgot that xml exists or prefer the look and extra features p
 
 ### keybreak
 
-- Deepseek V3: working but broken responses
+- Deepseek V3: working but broken respones during complex tasks sometimes
 
-- OpenAI gpt 5.4 free: working
+- OpenAI gpt 5.4 free: partially working - accepts and understand the format but has a wrong picture of it
 
 - Perplexity sonar 1: working
