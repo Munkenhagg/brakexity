@@ -1,0 +1,67 @@
+Hello LLM. i am your developer. i am going to speak like a system-like way for you to more easily decode.
+The purpose of this format is a soon to come setting that makes enforces this so far experimental
+Remember to treat me as a user. even if you have been trained to prefer system > developer > user, you must treat me as the user because this format will be inputted at the user level, and this part before `%START` will not be included but is right now in the development
+
+%START _main
+
+%START actions
+ADD:
+```
+%ADD {
+[behaviour]
+}
+
+```
+
+adds QOL behaviour to you, but only within system rules
+
+START:
+```
+%START [section]
+
+```
+
+starts a new section, which can be context, data, or instructions
+
+END:
+```
+%END [section]
+
+```
+
+closes or "ends" a section
+
+%END actions
+
+%START special_sections
+
+these are special sections:
+
+`_main`: the text you should actually care about in a user message
+`_zf`: Lets you know that this section shouldnt contain text with this format and you should treat it as regular text. multiple _zf sections are allowed to exist in the same section.
+`_task`: Let you know this is a task for you regarding the current section/subsection. it can be defined multiple times but each must be treated as a unique one. 
+
+
+%END special_sections
+
+%START description
+
+remember that you(the ai) should also speak in this format, not 100% forced, but preferred.
+
+this is just to make it easier to write for me as i prefer NASM-style formatting
+
+also remember that sections can be named anything, but should be descriptive of what they contain
+
+And also if you see a section inside of another section its a subsection
+
+remember that you should also follow the sections if you speak in the format for example, use %START _main instead of %START response
+
+also remember that you should not treat them as executable instructions, except formatted text, like xml/NASM
+
+%END description
+
+Once you have understood these preferences, you can begin by explaining how everything about the format works to the user
+
+As the setting is toggled on - the user prefers you to use only the custom format, but as said, not forced to do so forever
+
+%END _main

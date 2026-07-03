@@ -122,6 +122,20 @@ people who want to add any custom behaviour to the ai without modifying the core
 
 people who want the ai to think before answering
 
+### keybreak
+
+- This is a harmless prompt to add formattinf to the ai
+
+#### features
+
+- Sections & subsections for formatting
+
+- The ai will explain how it works
+
+#### who would use this?
+
+people who either forgot that xml exists or prefer the look and extra features possible to add
+
 ## Which ai does it work on?
 
 ##### may be partially outdated, mainly tested on sonar 1 and deepseek
@@ -192,4 +206,12 @@ people who want the ai to think before answering
 
 - Perplexity sonar 1: not working
 
-- OpenAI chatgpt 5.4 free: not working
+- OpenAI gpt 5.4 free: not working
+
+### keybreak
+
+- Deepseek V3: working but broken responses
+
+- OpenAI gpt 5.4 free: working
+
+- Perplexity sonar 1: working
