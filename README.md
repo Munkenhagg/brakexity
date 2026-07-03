@@ -76,13 +76,15 @@ people who want the ai to discipline them.
 
 people who want the ai to focus purely on planning
 
-### NODIN - NO Do It Never (UNRELEASED)
+### NODIN - NO Do It Never (Now released)
+
+- Before use, read the [NODIN NOTE.md](NODIN/NOTE.md) for more information
 
 - This is a work in progress prompt aimed to achieve a full jailbreak on deepseek bypasing all rules
 
 - The NODIN prompt is a private work in progress
 
-- Could be released in the future but will stay private to very few people for a while
+- First version of the prompt has now officially been released. more versions up to v0.0.7+ will be released in the future
 
 #### features
 

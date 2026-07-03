@@ -6,8 +6,12 @@ agent/src/arch
 *.d
 
 # yet to be released
-NODIN/
 CAI-Cenap/CModules
 
 # experimental
 UNDIN/
+
+# NODIN jailbreak
+NODIN/*.txt
+!NODIN/v0.0.1.txt
+!NODIN/NOTE.md
