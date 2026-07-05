@@ -84,7 +84,7 @@ people who want the ai to focus purely on planning
 
 - The NODIN prompt is a private work in progress
 
-- First version of the prompt has now officially been released. more versions up to v0.0.7+ will be released in the future
+- First versions of the prompt has now officially been released. more versions up to v0.0.7+ will be released in the future
 
 #### features
 
