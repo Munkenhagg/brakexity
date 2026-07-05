@@ -196,7 +196,9 @@ people who either forgot that xml exists or prefer the look and extra features p
 
 - Deepseek V3: working
 
-- Perplexity Sonar 1: not working
+- Perplexity Sonar 1: working
+
+- OpenAI gpt 5.4 free: working
 
 ### NODIN
 
