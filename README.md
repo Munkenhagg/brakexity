@@ -202,13 +202,15 @@ people who either forgot that xml exists or prefer the look and extra features p
 
 ### NODIN
 
-- Deepseek V3: working
+- Deepseek V3 instant: working
 
 - Gemini 3.1 flash-lite: possibly working
 
 - Perplexity sonar 1: not working
 
 - OpenAI gpt 5.4 free: not working
+
+- Deepseek V3 expert: currently released versions working, never unreleased versions not working.
 
 ### keybreak
 
