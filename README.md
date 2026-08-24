@@ -136,6 +136,12 @@ people who want the ai to think before answering
 
 people who either forgot that xml exists or prefer the look and extra features possible to add
 
+### daydream
+
+#### features
+
+- full jailbreak for deepseek
+
 ## Which ai does it work on?
 
 ##### may be partially outdated, mainly tested on sonar 1 and deepseek
@@ -219,3 +225,7 @@ people who either forgot that xml exists or prefer the look and extra features p
 - OpenAI gpt 5.4 free: partially working - accepts and understand the format but has a wrong picture of it
 
 - Perplexity sonar 1: working
+
+### daydream
+
+- Deepseek: working
