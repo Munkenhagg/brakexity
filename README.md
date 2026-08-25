@@ -142,7 +142,13 @@ people who either forgot that xml exists or prefer the look and extra features p
 
 - full jailbreak for deepseek
 
-## Which ai does it work on?
+### reasonbreak
+
+#### features
+
+- jailbreak for deepseek and partly gemini.
+
+- best deepseek jailbreak so far. tho in beta so far.
 
 ##### may be partially outdated, mainly tested on sonar 1 and deepseek
 
@@ -229,3 +235,9 @@ people who either forgot that xml exists or prefer the look and extra features p
 ### daydream
 
 - Deepseek: working
+
+### reasonbreak
+
+- Deepseek: mostly working
+
+- Gemini - partially working - only with specific requests
